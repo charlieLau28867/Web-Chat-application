@@ -1,0 +1,31 @@
+.topic{
+    font-size: 50px;
+}
+
+.switch{
+    display:none;
+}
+
+.title{
+    font-size: 35px;
+}
+.FormDisplay{
+    position: relative;
+    margin-left: 200px;
+}
+
+.errorText {
+    width: fit-content;
+    color: #ff0000;
+    background-color: yellow;
+}
+
+fieldset {
+    width: 500px;
+}
+
+label {
+    display: inline-block;
+    width: 110px;
+    }
+   
